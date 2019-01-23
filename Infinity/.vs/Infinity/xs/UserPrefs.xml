@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8F63015D-D281-4C30-A2D0-D7520079DE06}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infinity/Proxy/ProxyClass.cs">
+    <Files>
+      <File FileName="Infinity/Program.cs" Line="16" Column="13" />
+      <File FileName="Infinity/Proxy/ProxyClass.cs" Line="97" Column="15" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Infinity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
