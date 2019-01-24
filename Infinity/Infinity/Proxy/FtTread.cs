@@ -1,6 +1,4 @@
-﻿# coding=utf-8
-
-/*
+﻿/*
     // InfinityProxy - A C# .NET application
     // Copyright (C) 2018-2019 nbeny
     // <nbeny@student.42.fr>
